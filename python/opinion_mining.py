@@ -7,7 +7,7 @@ opinion_words = {"least": -1, "greatest": -1, "best": -1, "worst": -1, "bigoted"
                  "righteous": -2, "bad": -3, "anger": -1, "blah": -4, "believed": -4, "believe": -4, "most": -2,
                  "good": -3, "disappointing": -4, "dubious": -4, "critically": -3, "presumably": -2, "noteworthy": -2,
                  "important": -3, "contempt": -3, "extreme": -3, "strained": -3, "blistering": -3, "claim": -2,
-                 "favored": -2, "meaningful": -3, "behest": -3, "big": -2, "biggest": -2, "tesy": -15}
+                 "favored": -2, "meaningful": -3, "behest": -3, "big": -2, "biggest": -2}
 
 fact_words = {"testimony": 3, "information": 3, "declined": 2, "documents": 2, "before": 1, "during": 1,
               "former": 1, "later": 1, "politically": 3, "political": 3, "legally": 4, "legal": 4, "attorney": 3,
